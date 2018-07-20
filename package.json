@@ -1,6 +1,6 @@
 {
   "name": "limited-calls",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Wraps a function so it can only be called once during a set delay time.",
   "main": "limited-calls.min.js",
   "scripts": {
